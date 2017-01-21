@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>val</key>
+		<array>
+			<string>0xfffffff0075ae050</string>
+			<string>0xfffffff006f33620</string>
+			<string>0xfffffff00719b140</string>
+			<string>0xfffffff00719b148</string>
+			<string>0xfffffff0061cc000</string>
+			<string>0xfffffff0075ae0b8</string>
+			<string>0xfffffff0071f8584</string>
+			<string>0xfffffff00749bf88</string>
+			<string>0xfffffff00749b62c</string>
+			<string>0xfffffff00750c850</string>
+			<string>0xfffffff0075ae080</string>
+			<string>0xfffffff0070832bc</string>
+			<string>0x0</string>
+			<string>0xfffffff007183710</string>
+			<string>0xfffffff007183570</string>
+			<string>0xfffffff007514580</string>
+			<string>0xfffffff0073595e4</string>
+			<string>0xfffffff007514588</string>
+			<string>0xfffffff00748443c</string>
+			<string>0xfffffff0074669ec</string>
+			<string>0xfffffff00742f150</string>
+			<string>0xfffffff0074ba7d0</string>
+			<string>0xfffffff0070a3dcc</string>
+			<string>0xfffffff00707df90</string>
+			<string>0xfffffff0074a0eb0</string>
+			<string>0xfffffff0070957a8</string>
+			<string>0xfffffff00707d958</string>
+			<string>0xfffffff00719321c</string>
+			<string>0xfffffff00751199a</string>
+			<string>0xfffffff00719eca4</string>
+			<string></string>
+			<string>0xfffffff00707f000</string>
+			<string>0xfffffff0070e9c1c</string>
+			<string>0xfffffff0070de700</string>
+			<string>0xfffffff007085054</string>
+			<string>0xfffffff0070832b8</string>
+			<string>0xfffffff007083cb8</string>
+			<string>0xfffffff00707c4c4</string>
+			<string>0xfffffff0070dfe60</string>
+			<string>0xfffffff006f3f0a0</string>
+			<string>0xfffffff0068c1974</string>
+			<string>0xfffffff00701f5d4</string>
+			<string>0xfffffff006e6fad8</string>
+			<string>0xfffffff00708336c</string>
+			<string>0xfffffff007095ec0</string>
+			<string>0xfffffff0070805b8</string>
+			<string>0xfffffff007065588</string>
+			<string>0xfffffff007065590</string>
+			<string>0xfffffff00740beec</string>
+			<string>0xfffffff006fd3e78</string>
+			<string>0xfffffff0064fc644</string>
+			<string>0xfffffff00719ae9c</string>
+			<string>0xfffffff0070ea428</string>
+			<string>0xfffffff0073d10f0</string>
+			<string>0xfffffff007083c20</string>
+			<string>0xfffffff007511ab9</string>
+			<string>0xfffffff0075ae0d9</string>
+		</array>
+		<key>vers</key>
+		<string>Darwin Kernel Version 16.1.0: Thu Sep 29 21:56:11 PDT 2016; root:xnu-3789.22.3~1/RELEASE_ARM64_S5L8960X</string>
+	</dict>
+</array>
+</plist>
